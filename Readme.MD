@@ -17,3 +17,7 @@ for (int i = 0; i < words.Length; i++)
             Console.WriteLine(words[i]);
         }
 }
+
+
+// Ждем нажатия клавиши перед завершением программы
+Console.ReadKey();
